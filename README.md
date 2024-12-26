@@ -61,10 +61,13 @@ RegisterNumber:24005994
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![ss rtl](https://github.com/user-attachments/assets/dfd53cbf-264d-4b00-b02a-a26c507800e3)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![ou sr](https://github.com/user-attachments/assets/7255d899-6f6e-43f9-b4c2-e988ca564fca)
 
 **RESULTS**
+
 Thus the SR Flip-Flop is designed and its fuctionality is validated using the truth table and timing diagrams.
