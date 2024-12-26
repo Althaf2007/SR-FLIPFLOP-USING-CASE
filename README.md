@@ -67,3 +67,4 @@ RegisterNumber:24005994
 ![ou sr](https://github.com/user-attachments/assets/7255d899-6f6e-43f9-b4c2-e988ca564fca)
 
 **RESULTS**
+Thus the SR Flip-Flop is designed and its fuctionality is validated using the truth table and timing diagrams.
